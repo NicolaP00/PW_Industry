@@ -1,0 +1,30 @@
+
+--------------------- Model errors and report:-------------------------
+                              Coefficients
+timeDuration                      0.087748
+nMovements                       -0.099911
+movementsDifficulty              -0.057233
+robotSpeech                      -0.006648
+acrobaticMovements               -0.176366
+movementsRepetition              -0.069615
+movementsTransitionsDuration     -0.067028
+humanMovements                   -0.084767
+balance                          -0.178012
+speed                            -0.052338
+bodyPartsCombination             -0.073850
+musicBPM                         -0.000510
+sameStartEndPositionPlace        -0.144171
+headMovement                     -0.119731
+armsMovement                     -0.152677
+handsMovement                    -0.006311
+legsMovement                     -0.184588
+feetMovement                     -0.021308
+AItechnique_constraints           0.739419
+AItechnique_planning              0.273176
+AItechnique_searchStartegy        0.863193
+musicGenre_Electronic             0.111367
+musicGenre_Folk                   0.221970
+musicGenre_Indie                 -0.149908
+musicGenre_Pop                    0.622679
+musicGenre_Rap                   -0.113001
+musicGenre_Rock                  -0.048783
